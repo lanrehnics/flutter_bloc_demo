@@ -1,0 +1,10 @@
+enum ButtonOptionsEnum{
+  TRY_AGAIN,
+  RESET_PASSWORD,
+  STORE,
+  GIFT_STORE,
+  PROFILE,
+  SOCIAL_TREE,
+  CHECK_OUT,
+  GIFT_BASKET
+}
